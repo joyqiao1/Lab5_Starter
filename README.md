@@ -1,1 +1,2 @@
-# Lab 5 - Starter
+My name: Jingjing Qiao
+partner: Mingjun Xu
